@@ -7,8 +7,8 @@ I'm a **Salesforce Solution Architect, Automation Strategist, and AI Workflow Co
 I help organizations **design, optimize, and scale** their Salesforce ecosystems and automation frameworks to drive operational excellence, accelerate sales, and improve customer experience.
 
 💼 **Key Focus Areas:**
-- 🔧 Salesforce Architecture & Customization (Sales Cloud, CPQ, Service, FSL)
-- 🤖 Process Automation & AI-driven Workflows (e.g. [https://github.com/haasem/N8N_Youtube_Investigator/blob/main/README.md] (Flow Builder, APEX, Zapier, n8n, Python)
+- 🔧 Salesforce Architecture & Customization (Sales Cloud, CPQ, Service, FSL
+- 🤖 Process Automation & AI-driven Workflows (e.g. [N8N Youtube Investigator] (https://github.com/haasem/N8N_Youtube_Investigator/blob/main/README.md) (Flow Builder, APEX, Zapier, n8n, Python)
 - 🧠 AI Enablement for CRM (Salesforce AI Associate, Agentic AI, machine learning concepts)
 - 🧩 Integration & DevOps (REST/SOAP, GitHub, Copado, CI/CD)
 - 🗺️ Enterprise Territory Management & Visibility Architecture

@@ -18,6 +18,7 @@ I help organizations **design, optimize, and scale** their Salesforce ecosystems
 
 ✅ **Certified Expertise:** 7x Salesforce Certified + AI + Scrum + DevOps  
 ✅ **Proven Track Record:** Led multi-year CRM initiatives for **Telefonica**, **Koenig & Bauer**, **Otkritie Bank**, and others  
+✅ **Industry Experience:** Engineering, Telecommunications, Real Estate, Finance, Insurance, and others  
 ✅ **Automation-First Mindset:** Reduced processing time by up to **70%** in core sales processes  
 ✅ **Fluent in Four Languages:** Fluent in **German, English, Russian**, and conversational **Spanish**  
 ✅ **Remote-Ready Consultant:** Operating globally from **Panama** 🌍

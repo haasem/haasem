@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Michael Haase – Welcome to My GitHub
 
-I'm a **Salesforce Solution Architect, Automation Strategist, and AI Workflow Consultant** with over **15 years of hands-on experience** delivering high-impact CRM solutions across telecom, manufacturing, financial services, and more.
+I'm a **Salesforce Solution Architect, Automation Strategist, AI Workflow & AI Agent Specialist** with over **15 years of hands-on experience** delivering high-impact CRM- and automation solutions across telecom, manufacturing, financial services, and more.
 
 ## 🚀 What I Do
 

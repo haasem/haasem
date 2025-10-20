@@ -42,8 +42,10 @@ Open to:
 📧 **michael@michaelhaaseconsulting.com**  
 🌐 [www.michaelhaaseconsulting.com](http://www.michaelhaaseconsulting.com)  
 📱 +49 351 2718 1005
+
 📱 WhatsApp: +49 151 401 73 885
-💼 [LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=michaelhaaseconsulting)
+
+💼 [Follow Me on LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=michaelhaaseconsulting)
 
 ---
 
